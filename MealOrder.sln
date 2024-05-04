@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Server", "MealOrder\Server\MealOrder.Server.csproj", "{9EA2D514-C139-4DD4-BA45-E089FF4B4CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Client", "MealOrder\Client\MealOrder.Client.csproj", "{FEA3BDB3-F58E-4E61-B6E7-497E8B86E4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Shared", "MealOrder\Shared\MealOrder.Shared.csproj", "{063E5EAE-302E-441A-A5BF-45AFB526485B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA2D514-C139-4DD4-BA45-E089FF4B4CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA2D514-C139-4DD4-BA45-E089FF4B4CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA2D514-C139-4DD4-BA45-E089FF4B4CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA2D514-C139-4DD4-BA45-E089FF4B4CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA3BDB3-F58E-4E61-B6E7-497E8B86E4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA3BDB3-F58E-4E61-B6E7-497E8B86E4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA3BDB3-F58E-4E61-B6E7-497E8B86E4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA3BDB3-F58E-4E61-B6E7-497E8B86E4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063E5EAE-302E-441A-A5BF-45AFB526485B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063E5EAE-302E-441A-A5BF-45AFB526485B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063E5EAE-302E-441A-A5BF-45AFB526485B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063E5EAE-302E-441A-A5BF-45AFB526485B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
