@@ -426,6 +426,9 @@
       "MealOrder.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Blazored.Modal": "5.1.0"
+        },
         "compile": {
           "bin/placeholder/MealOrder.Shared.dll": {}
         },
@@ -859,6 +862,9 @@
       "MealOrder.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Blazored.Modal": "5.1.0"
+        },
         "compile": {
           "bin/placeholder/MealOrder.Shared.dll": {}
         },

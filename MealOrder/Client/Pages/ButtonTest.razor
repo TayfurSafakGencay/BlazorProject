@@ -1,18 +1,34 @@
 ﻿@page "/buttontest"
 @page "/buttons"
 
-<h3>ButtonTest</h3>
+<h3>@title</h3>
 
 <div class="form-group">
     <div class="container">
         <div class="btn-toolbar">
-            <CustomEditButtonComponent ButtonText="Edit 1" Color="secondary"/>
-            <CustomEditButtonComponent ButtonText="Edit 2" Color="primary"/>
-            <button class="btn btn-danger">Danger Button</button>
+            <CustomEditButtonComponent OnClick="ChangeTitle" Caption="Delete" Color="primary" />
+            <CustomEditButtonComponent OnClick="ShowConfirmation" Caption="Show Message" Color="danger" />
         </div>
     </div>
 </div>
 
 @code {
+    [CascadingParameter]
+    IModalService Modal { get; set; }
+
+    [Inject] ModalManager ModalManager { get; set; }
+
+    private string title = "";
     
+    private async void ChangeTitle()
+    {
+        await ModalManager.ShowMessageAsync("Show Message Title", "Deleted!", 3000);
+    }
+    
+    private async Task ShowConfirmation()
+    {
+        bool result = await ModalManager.ConfirmationAsync("Confirmation", "Are you sure that it will be deleted?");
+    
+        title = result ? "Yes" : "No";
+    }
 }

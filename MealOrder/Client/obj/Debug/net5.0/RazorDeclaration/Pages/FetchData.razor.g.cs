@@ -90,6 +90,41 @@ using MealOrder.Client.CustomComponents.Buttons;
 #line hidden
 #nullable disable
 #nullable restore
+#line 14 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using Blazored;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using Blazored.Modal;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 16 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using Blazored.Modal.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 18 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using MealOrder.Client.CustomComponents.Modal;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 20 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using MealOrder.Client.Utils;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\Pages\FetchData.razor"
 using MealOrder.Shared;
 

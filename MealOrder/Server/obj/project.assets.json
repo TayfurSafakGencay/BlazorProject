@@ -455,6 +455,9 @@
       "MealOrder.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Blazored.Modal": "5.1.0"
+        },
         "compile": {
           "bin/placeholder/MealOrder.Shared.dll": {}
         },
@@ -1009,6 +1012,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Blazored.Modal >= 5.1.0",
       "MealOrder.Client >= 1.0.0",
       "MealOrder.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 5.0.17"
@@ -1060,6 +1064,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Blazored.Modal": {
+            "target": "Package",
+            "version": "[5.1.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebAssembly.Server": {
             "target": "Package",
             "version": "[5.0.17, )"

@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Blazored.Modal;
+using MealOrder.Client.Utils;
 
 namespace MealOrder.Server
 {
@@ -22,7 +23,7 @@ namespace MealOrder.Server
     {
       services.AddControllersWithViews();
       services.AddRazorPages();
-
+      
       services.AddBlazoredModal();
     }
 
