@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "MealOrder.Server/1.0.0": {
         "dependencies": {
+          "Blazored.Modal": "5.1.0",
           "MealOrder.Client": "1.0.0",
           "MealOrder.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "5.0.17",
@@ -319,6 +320,23 @@
           "MealOrder.Server.dll": {}
         }
       },
+      "Blazored.Modal/5.1.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "5.0.17",
+          "Microsoft.AspNetCore.Components.Web": "5.0.17",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
+          "Microsoft.JSInterop.WebAssembly": "5.0.17"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Blazored.Modal.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/Blazored.Modal.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/5.0.17": {
         "dependencies": {
           "Microsoft.AspNetCore.Metadata": "5.0.17",
@@ -539,6 +557,7 @@
       "System.Net.Http.Json/5.0.0": {},
       "MealOrder.Client/1.0.0": {
         "dependencies": {
+          "Blazored.Modal": "5.1.0",
           "MealOrder.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "5.0.17",
           "System.Net.Http.Json": "5.0.0"
@@ -551,6 +570,9 @@
         }
       },
       "MealOrder.Shared/1.0.0": {
+        "dependencies": {
+          "Blazored.Modal": "5.1.0"
+        },
         "runtime": {
           "MealOrder.Shared.dll": {}
         },
@@ -2215,6 +2237,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Blazored.Modal/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Sw2pWqDWugPFf4BKmO2Cd8SZ4nQluIvgrcINuAFQrCRLoaY1+dp6gGbtEvenLc6pgjyD7TX4eg7qnU4LSpVN6A==",
+      "path": "blazored.modal/5.1.0",
+      "hashPath": "blazored.modal.5.1.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/5.0.17": {
       "type": "package",

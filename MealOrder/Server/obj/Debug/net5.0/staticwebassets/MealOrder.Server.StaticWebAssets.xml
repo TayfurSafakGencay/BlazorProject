@@ -1,4 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Blazored.Modal" Path="C:\Users\Safak\.nuget\packages\blazored.modal\5.1.0\build\..\staticwebassets\" />
   <ContentRoot BasePath="/" Path="C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\bin\Debug\net5.0\wwwroot\" />
   <ContentRoot BasePath="/" Path="C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\scopedcss\bundle\" />
   <ContentRoot BasePath="/" Path="C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\wwwroot\" />

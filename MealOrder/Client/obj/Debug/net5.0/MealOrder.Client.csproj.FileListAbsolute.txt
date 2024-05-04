@@ -638,3 +638,16 @@ C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\RazorDe
 C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\Razor\Pages\ButtonTest.razor.g.cs
 C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\RazorDeclaration\CustomComponents\Buttons\CustomEditButtonComponent.razor.g.cs
 C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\Razor\CustomComponents\Buttons\CustomEditButtonComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Modal.dll.gz
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Modal.dll
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\RazorDeclaration\CustomComponents\Buttons\BaseButtonComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\RazorDeclaration\CustomComponents\Buttons\ButtonComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\Razor\CustomComponents\Buttons\BaseButtonComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\Razor\CustomComponents\Buttons\ButtonComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\build-gz\CuK4s0fl.gz
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\RazorDeclaration\CustomComponents\Modal\BaseModalComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\RazorDeclaration\CustomComponents\Modal\ShowMessagePopupComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\Razor\CustomComponents\Modal\BaseModalComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\Razor\CustomComponents\Modal\ShowMessagePopupComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\RazorDeclaration\CustomComponents\Modal\ConfirmationPopupComponent.razor.g.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\obj\Debug\net5.0\Razor\CustomComponents\Modal\ConfirmationPopupComponent.razor.g.cs

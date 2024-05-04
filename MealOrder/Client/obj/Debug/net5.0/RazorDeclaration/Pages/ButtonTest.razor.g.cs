@@ -89,6 +89,41 @@ using MealOrder.Client.CustomComponents.Buttons;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 14 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using Blazored;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using Blazored.Modal;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 16 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using Blazored.Modal.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 18 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using MealOrder.Client.CustomComponents.Modal;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 20 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\_Imports.razor"
+using MealOrder.Client.Utils;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/buttontest")]
     [Microsoft.AspNetCore.Components.RouteAttribute("/buttons")]
     public partial class ButtonTest : Microsoft.AspNetCore.Components.ComponentBase
@@ -98,6 +133,31 @@ using MealOrder.Client.CustomComponents.Buttons;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 15 "C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Client\Pages\ButtonTest.razor"
+       
+    [CascadingParameter]
+    IModalService Modal { get; set; }
+
+    [Inject] ModalManager ModalManager { get; set; }
+
+    private string title = "";
+    
+    private async void ChangeTitle()
+    {
+        await ModalManager.ShowMessageAsync("Show Message Title", "Deleted!", 3000);
+    }
+    
+    private async Task ShowConfirmation()
+    {
+        bool result = await ModalManager.ConfirmationAsync("Confirmation", "Are you sure that it will be deleted?");
+    
+        title = result ? "Yes" : "No";
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

@@ -58,3 +58,4 @@ C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Server\obj\Debug\net5.0\MealOrd
 C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Server\obj\Debug\net5.0\ref\MealOrder.Server.dll
 C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Server\obj\Debug\net5.0\MealOrder.Server.pdb
 C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Server\obj\Debug\net5.0\MealOrder.Server.genruntimeconfig.cache
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder\Server\bin\Debug\net5.0\Blazored.Modal.dll

@@ -7,6 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.Modal.dll": "sha256-v5hsrRFpgCTdRU0txjAJ2ZBWWsLEp0HGPd9rGOxEB7w=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-5QpvlVP++Gkc1dR8QwljPr2My0TdN\/zMkNik9vPVNxk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-lIaWNwfsw4JmImsjOS8Y60om1ZDgL2CTkBB+RmJPCgk=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-RA8PrAgd0Srd27z2Nw+t5X4AGrsOq2zTT9OuXAOuO1Q=",
@@ -195,13 +196,13 @@
       "mscorlib.dll": "sha256-zMI\/dXK7DoZZ9Qm9U9\/jRN4iQ9Ss3w8\/rwQQxC6SW9Y=",
       "netstandard.dll": "sha256-W3q3PN+lpRB+tRJEIhtMgYOGFv0pauEeeCS9iIRkKAM=",
       "System.Private.CoreLib.dll": "sha256-9rUJv1mXEQdGt\/kWiJ1ITPPzp3cAi3lSmqHVTisp7w0=",
-      "MealOrder.Shared.dll": "sha256-YvVIyInDu6HvnjdmHzdOOq2w1GHLjUeag6aG8OcuVm4=",
-      "MealOrder.Client.dll": "sha256-x93CmBNwBvb5nj3MkUPmJnRVgro3Rbp1Qva70vvvuvU="
+      "MealOrder.Shared.dll": "sha256-KL+YxMEvdE8+639HRrfj4eUtpw8GLgqcbmxoWqW3f\/A=",
+      "MealOrder.Client.dll": "sha256-L2tIghO8kut6hdDTvpLE1\/UVBQ0MzpuVBHXOM5rr1GA="
     },
     "lazyAssembly": null,
     "pdb": {
-      "MealOrder.Shared.pdb": "sha256-R6xB82GXCZhqbb3d1NEXA2sStUYziyXsrkPf4ZpDSjE=",
-      "MealOrder.Client.pdb": "sha256-5t6d05Fpra+KWjLFj46ZRYrBQlIr7oxzRtBXC26Xhu8="
+      "MealOrder.Shared.pdb": "sha256-AOHuPLIG64nogO\/wGu+WwuBgbcyDjdCmxd4g1INnsAI=",
+      "MealOrder.Client.pdb": "sha256-IVN+vfggquwnODXjYJYkMfXqLf3N596VqmJnswTnRIY="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-8oJip361m8OrfLRJOuIeswWKaoxtT27\/wINCxhn+s4c=",
