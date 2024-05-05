@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Client", "MealOrd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Shared", "MealOrder\Shared\MealOrder.Shared.csproj", "{063E5EAE-302E-441A-A5BF-45AFB526485B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Server.Data", "MealOrder.Server.Data\MealOrder.Server.Data.csproj", "{C5CA7EFD-56D7-425E-A093-D7CCD372B301}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{063E5EAE-302E-441A-A5BF-45AFB526485B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{063E5EAE-302E-441A-A5BF-45AFB526485B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{063E5EAE-302E-441A-A5BF-45AFB526485B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CA7EFD-56D7-425E-A093-D7CCD372B301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CA7EFD-56D7-425E-A093-D7CCD372B301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CA7EFD-56D7-425E-A093-D7CCD372B301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CA7EFD-56D7-425E-A093-D7CCD372B301}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

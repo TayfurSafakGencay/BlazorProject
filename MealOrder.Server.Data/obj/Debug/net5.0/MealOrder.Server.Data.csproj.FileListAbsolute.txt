@@ -1,0 +1,15 @@
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\bin\Debug\net5.0\MealOrder.Server.Data.deps.json
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\bin\Debug\net5.0\MealOrder.Server.Data.runtimeconfig.json
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\bin\Debug\net5.0\MealOrder.Server.Data.runtimeconfig.dev.json
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\bin\Debug\net5.0\MealOrder.Server.Data.dll
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\bin\Debug\net5.0\ref\MealOrder.Server.Data.dll
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\bin\Debug\net5.0\MealOrder.Server.Data.pdb
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\MealOrder.Server.Data.csproj.AssemblyReference.cache
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\MealOrder.Server.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\MealOrder.Server.Data.AssemblyInfoInputs.cache
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\MealOrder.Server.Data.AssemblyInfo.cs
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\MealOrder.Server.Data.csproj.CoreCompileInputs.cache
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\MealOrder.Server.Data.dll
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\ref\MealOrder.Server.Data.dll
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\MealOrder.Server.Data.pdb
+C:\Users\Safak\RiderProjects\MealOrder\MealOrder.Server.Data\obj\Debug\net5.0\MealOrder.Server.Data.genruntimeconfig.cache
